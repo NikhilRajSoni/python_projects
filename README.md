@@ -1,1 +1,2 @@
-# python_projects
+Here is my link to the video explanation of a question in which we have to find median and mode of the given list of numbers...
+link: https://drive.google.com/file/d/1MKP7qsNxcQMgmaI_5X6qPE6zz-44ewvO/view?usp=sharing
